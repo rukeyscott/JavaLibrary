@@ -1,0 +1,8 @@
+After opening the Library file, go to the top left corner and click on File.
+Navigate to Desktop\Library-master\Library-master\LibrarySaveFile.txt and click open.
+The library has now been loaded.
+You may now enter a new book, create a new user, checkout a book, return a book,
+Look at the books that are currently checked out and which patron has those books. 
+You may also look to see what books there are available.
+When finished with the library please click back on the File button and choose Quit.
+This will save all current information to the database.
